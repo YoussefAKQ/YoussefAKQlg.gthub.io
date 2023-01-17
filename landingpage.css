@@ -1,0 +1,59 @@
+.titulo{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;   
+    background-color: rgb(124, 243, 243);
+}
+.text{
+    float: left;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: fixed;
+
+  }
+  
+  .boton{
+    float: right;
+    display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  
+  }
+
+  .formulario {
+    align-items: center;
+    
+  }
+
+  .form {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    width: 50%; 
+    margin: 100px auto; 
+    text-align: center;
+  }
+
+  body {
+    background-image: url("posiblefondo2.png");
+background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+.hola{
+  font-size: xx-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  text-align: center;
+}
+
+.yo{
+  background-color: aqua;
+}
